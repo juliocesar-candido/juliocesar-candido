@@ -14,7 +14,7 @@ Sou estudante de Bacharelado em Tecnologia da Informação pela UFRN. Atualmente
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e ferramentas
 
 Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia acadêmico e em projetos pessoais:
 
