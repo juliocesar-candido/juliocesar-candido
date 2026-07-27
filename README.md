@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=juliocesar-candido&color=0077B5" alt="Views do perfil" />
-</p>
-
 Sou estudante de Bacharelado em Tecnologia da Informação pela UFRN. Atualmente, tenho focado meus estudos no desenvolvimento de software, lógica de programação e estou construindo minha base com foco em engenharia de software.
 
 ---
